@@ -12,7 +12,17 @@ Héctor Hernández Membiela
 
 ## Ficheros de código fuente
 
-source/hhernandezme_PRAC2.Rmd
+* source/hhernandezme_PRAC2.Rmd
+
+## Ficheros de datos
+
+* data/titanic-clean.csv
+* data/titanic-test.csv
+* data/titanic-train.csv
+
+## Memoria de la práctica
+
+* source/hhernandezme_PRAC2.pdf
 
 ## Recursos
 
